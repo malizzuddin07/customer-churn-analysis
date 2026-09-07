@@ -16,7 +16,7 @@ A telecommunications provider is experiencing high customer turnover. Management
 ## 🧠 Key Findings & Statistical Proof
 *(The heatmap mathematically validates our dashboard findings: demonstrating a strong negative correlation (-0.35) between tenure and churn.)*
 
-![Correlation Heatmap](./Heatmap_Figure 1.png)
+![Correlation Heatmap](./Heatmap_Figure1.png)
 
 * **The Tenure Effect:** A statistical correlation matrix mathematically confirmed a negative relationship (**-0.35**) between tenure and churn. The highest risk of attrition occurs within the first 6 months.
 * **Contract Vulnerability:** Customers on month-to-month contracts churn at a massive **42.71%**, compared to just 2.83% for two-year contracts.
